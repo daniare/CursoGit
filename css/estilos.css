@@ -1,6 +1,7 @@
 body{
     background-color: aquamarine;
-
+    font-weight: bold;
+    
 }
 
 h1{
@@ -12,3 +13,4 @@ p{
     color:chartreuse;
     text-align: center;
 }
+
